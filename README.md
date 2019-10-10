@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NATAS
+title: natas
 date: 2019-10-10 10:01
 ---
 # Natas 1
