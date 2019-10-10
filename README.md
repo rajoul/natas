@@ -1,3 +1,8 @@
+---
+layout: post
+title: NATAS
+date: 2019-10-10 10:01
+---
 # Natas 1
 ```
 import requests,re
